@@ -1,0 +1,12 @@
+.NavBar {
+  background-color: blue;
+  height: 65px;
+  width: 100%;
+}
+
+.NavBar h4 {
+  float: right;
+  color: white;
+  cursor: pointer;
+  margin-right: 15px;
+}
